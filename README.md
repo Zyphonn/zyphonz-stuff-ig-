@@ -3,11 +3,11 @@ download da mystuff.exe (or source.py) file and then run it (ik its sketchy but 
 
 # FAQ:
 
-## Why did I make this:
+## Why did you make this?
 im bored (and i like coding even though im ass at it)
 ## Whats the difference between mystuff.exe and source.py?
 source.py is just the source code of mystuff.exe, and mystuff.exe is just a compiled version (compiled using pyinstaller)
-## What tf is this:
+## What tf is this???
 a shitty python app, that is basically just a bootstrapper for everything i make
 ## Is this getting updates?
 idk maybe if i make more stuff and if i wanna update this
