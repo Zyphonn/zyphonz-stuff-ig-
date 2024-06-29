@@ -1,5 +1,9 @@
-# Download:
-download da source.py file and then run it (ik its sketchy but if u want u can check the source code out, and see there is nothing sketchy or messed up with it besides it being super janky code)
+# How to download:
+Click the code button and click "download zip"
+then extract the zip file once it downloads
+after that, run the install.bat file and let it load the pip dependencies
+once everything is installed, run the source.py file, and bam thas it
+(if this looks sketchy, just read through the source of the source.py file, or any file cuz its all open source lol)
 
 # FAQ:
 
