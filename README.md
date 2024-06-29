@@ -1,12 +1,10 @@
 # Download:
-download da mystuff.exe (or source.py) file and then run it (ik its sketchy but if u want im adding da source code into here and its literally just python)
+download da source.py file and then run it (ik its sketchy but if u want u can check the source code out, and see there is nothing sketchy or messed up with it besides it being super janky code)
 
 # FAQ:
 
 ## Why did you make this?
 im bored (and i like coding even though im ass at it)
-## Whats the difference between mystuff.exe and source.py?
-source.py is just the source code of mystuff.exe, and mystuff.exe is just a compiled version (compiled using pyinstaller)
 ## What tf is this???
 a shitty python app, that is basically just a bootstrapper
 strapper for everything i make
